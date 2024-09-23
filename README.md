@@ -1,2 +1,16 @@
 # SoTA-tracker
-Crowd-sourced, open-source ADC survey (perhaps later we can add DAC, PLL, etc)
+An open-source SoTA (state-of-the-art) survey tool, with community generated and maintained dataset. 
+
+
+# Automate the repetitive stuff
+Every IC Designer who publishes their work tends to do three things (1) perform an initial SoTA literature review (2) generate a SoTA comparison table for their paper (3) make a SoTA plot for conference slides. SoTA-tracker takes the repetitive work out of these common tasks.
+
+
+# Community Powered
+Moderators help to maintain the quality and integrity of the dataset. We thank them for their time and efforts:
+
+<< Name + optional link to your personal site or profile here >>
+
+
+# Future Roadmap
+The first step will be to set this up as an ADC survey tool. But the intention is to eventually expand to other circuit categories as well such as DAC, PLL, VCO, Instrumentation Amplifiers, etc.
