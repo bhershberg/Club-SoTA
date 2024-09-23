@@ -13,4 +13,4 @@ Moderators help to maintain the quality and integrity of the dataset. We thank t
 
 
 # Future Roadmap
-The first step will be to set this up as an ADC survey tool. But the intention is to eventually expand to other circuit categories as well such as DAC, PLL, VCO, Instrumentation Amplifiers, etc.
+As a first step, the focus will be on creating an ADC survey tool. But the intention is to eventually expand to other circuit categories as well such as DAC, PLL, VCO, Instrumentation Amplifiers, etc.
