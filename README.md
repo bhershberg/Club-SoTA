@@ -6,7 +6,7 @@ An open-source SoTA (state-of-the-art) survey tool, with a community generated a
 Every IC Designer who publishes their work tends to do three things (1) perform an initial SoTA literature review (2) generate a SoTA comparison table for their paper (3) make a SoTA plot for conference slides. SoTA-tracker takes the repetitive work out of these common tasks.
 
 
-# Community Powered
+# Join the Club
 Moderators help to maintain the quality and integrity of the dataset. We thank them for their time and efforts:
 
 << Name + optional link to your personal site or profile here >>
