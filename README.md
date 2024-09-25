@@ -3,7 +3,7 @@ An open-source SoTA (state-of-the-art) survey tool, with a community generated a
 
 
 # Automate the repetitive stuff
-Every IC Designer who publishes their work tends to do three things (1) perform an initial SoTA literature review (2) generate a SoTA comparison table for their paper (3) make a SoTA plot for conference slides. SoTA-tracker takes the repetitive work out of these common tasks, meanwhile enhancing quality and insights.
+Every IC Designer who publishes their work tends to do three things (1) perform an initial SoTA literature review (2) generate a SoTA comparison table for their paper (3) make a SoTA plot for conference slides. SoTA-tracker takes the repetitive work out of these common tasks, while enhancing quality and insights.
 
 
 # Join the Club
