@@ -1,4 +1,4 @@
-# SoTA-tracker
+# Club SoTA
 An open-source SoTA (state-of-the-art) survey tool, with a community generated and maintained dataset. 
 
 
